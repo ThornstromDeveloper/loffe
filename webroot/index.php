@@ -1,1 +1,2 @@
-<?= 'Loffe';
+<?php
+require 'vendor/startup.php';
