@@ -1,0 +1,16 @@
+{
+    "name": "ThornstromDeveloper/loffe",
+    "type": "framework",
+    "description": "The Loffe framework",
+    "keywords": ["php","framework","mvc"],
+    "homepage": "https://yourcompany.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Anders Thörnström",
+            "email": "thornstrom@gmail.com",
+            "homepage": "http://noyet.com",
+            "role": "Developer"
+        }
+    ],
+}
