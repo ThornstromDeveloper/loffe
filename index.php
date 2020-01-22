@@ -1,1 +1,2 @@
-<?= echo 'test';
+<?php
+require 'webroot/index.php';
